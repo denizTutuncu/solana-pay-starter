@@ -1,4 +1,4 @@
-# buildspace Store on Solana Pay Project
+# AIC DAO Journal Store /w Solana Pay
 
 ### **Welcome 👋**
 
